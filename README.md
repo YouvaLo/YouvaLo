@@ -10,12 +10,12 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-### 💻 About Me :
+### 🧑‍💻 About Me :
 
 I’m Youva, Master's degree in electronics from the University of Burgundy, currently studying Application Design and Development at the O'clock school.
   
 📡 I'm passionate about several technical fields, including :
-   - 💻 Computer science : Web development, IA 
+   - 🖥️ Computer science : Web development, IA 
    - 📟 Electronics : Radio frequencies, IoT (Internet of Things), Embedded systems, Microelectronics, Image and Signal processing and Colorimetry.
     
 📚 I’m currently learning : .NET, Angular, React, TypeScript, Python, SQL, Docker and Git. 
@@ -24,11 +24,12 @@ I’m Youva, Master's degree in electronics from the University of Burgundy, cur
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-### 🛠️ Tools and Technologies
+### 🧰 Tools and Technologies
 
-#### 📜 Languages
+#### 💻 Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
