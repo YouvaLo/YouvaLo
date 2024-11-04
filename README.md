@@ -42,4 +42,5 @@ I’m Youva, Master's degree in electronics from the University of Burgundy, cur
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&langs_count=10&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=YouvaLo&langs_count=10&theme=github_dark&hide_border=true&custom_title=My%20Github%20Profile)
+
