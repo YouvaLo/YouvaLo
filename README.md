@@ -19,6 +19,6 @@ I’m Youva, Master's degree in electronics from the University of Burgundy, cur
    - 📟 Electronics : Radio frequencies, IoT (Internet of Things), Embedded systems, Microelectronics, Image and Signal processing and Colorimetry.
     
 📚 I’m currently learning : .NET, Angular, React, TypeScript, Python, SQL, Docker and Git 
-📫 Contact me : [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/youva-lounas/))
+📩 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/youva-lounas/)
 
 ----------------------------------------------------------------------------------------------------------------------------
