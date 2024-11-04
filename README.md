@@ -33,11 +33,11 @@ I’m Youva, Master's degree in electronics from the University of Burgundy, cur
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-9B2D30?style=for-the-badge&logo=VHDL&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MATLAB&logoColor=white)
 
 #### 🛠️ Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
 ![XILINX ISE](https://img.shields.io/badge/XILINX%20ISE-004B87?style=for-the-badge&logoColor=white&labelColor=004B87)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=MATLAB&logoColor=white)
 ![EAGLE](https://img.shields.io/badge/EAGLE%20PCB-1C1C1C?style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
