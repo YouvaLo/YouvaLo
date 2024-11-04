@@ -8,3 +8,17 @@
   <img src="https://www.lw-works.com/wp-content/uploads/2023/02/developpeur-web-competences.jpg" width="600" height="300"/>
 </div>
 
+----------------------------------------------------------------------------------------------------------------------------
+
+### 💻 About Me :
+
+I’m Youva, Master's degree in electronics from the University of Burgundy, currently studying Application Design and Development at the O'clock school.
+  
+📡 I'm passionate about several technical fields, including :
+   - 💻 Computer science : Web development, IA 
+   - 📟 Electronics : Radio frequencies, IoT (Internet of Things), Embedded systems, Microelectronics, Image and Signal processing and Colorimetry.
+    
+📚 I’m currently learning : .NET, Angular, React, TypeScript, Python, SQL, Docker and Git 
+📫 Contact me : [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/youva-lounas/))
+
+----------------------------------------------------------------------------------------------------------------------------
