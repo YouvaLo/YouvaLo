@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Profile views](https://komarev.com/ghpg/?YouvaLo=votre-YouvaLo&color=blue)
+![Profile views](https://komarev.com/ghpg/?username=votre-YouvaLo&color=blue)
 
 Here are some ideas to get you started:
 
