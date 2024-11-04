@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=YouvaLo&style=flat-square&color=blue" alt=""/>
 <h1>
   Hi there 👋
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FuZ20xMHRicWw0eTgwc2N0Z3llemRrMXJmcHRmY2l4eXl6bG0yNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZ033bAXmrstTLqZR4/giphy.webp" width="30px"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E3Mjdic2tuaGVqZXV6bWNzdDVnZmk2bGd0ZmRteXBoaTF0ZTFhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fkb0aC33vSyuYAwqqQ/giphy.webp" width="30px"/>
 </h1>
 </div>
 
