@@ -40,3 +40,6 @@ I’m Youva, Master's degree in electronics from the University of Burgundy, cur
 ![EAGLE](https://img.shields.io/badge/EAGLE%20PCB-1C1C1C?style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=RaspberryPi&logoColor=white)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&langs_count=10&theme=github_dark&hide_border=true)
