@@ -53,7 +53,6 @@ I’m Youva, Master's degree in electronics from the University of Burgundy, cur
 
 ## 📊 Github Stats : 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YouvaLo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=YouvaLo&theme=dark&hide_border=false)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
