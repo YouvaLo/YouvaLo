@@ -1,24 +1,27 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=YouvaLo&style=flat-square&color=blue" alt="Bannière indiquant le nombre de visiteurs"/>
-<h1>Hi there 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWMybHJkN24zMWl1cGliYjhubnRqZjM0eWpjZTM0eG16ZzZsdnNyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q1FOFOOF6CE6FlNFxL/giphy.webp" alt="Emoji qui dit coucou" width="40px" height="40px"/>
+<h1>Hey
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm51MTV4c3pwMXE0bmVrNm5hYjlyZTB0bDQ2Mjd3bGM2azFoeHNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" alt="Emoji qui dit coucou" width="45px" height="45px"/>
 </h1>
 </div>
 <div align="center"> 
-  <img src="https://homedeve.com/wp-content/uploads/2023/09/Formation-developpeur-full-stack.png" width="600" height="300">
+  <img src="https://nokibou.jp/wp-content/uploads/2021/04/spa.jpg" width="700" height="350">
 </div>
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 # 💫 About Me :
 
-I’m Youva, currently working as a Fullstack Developer (C# .NET/Angular) and studying Application Design and Development. I’m also an Electronics Engineer with a Master’s degree.
-  
-📡 I'm passionate about several technical fields, including :
-   - 🖥️ Computer science : Web development, IA 
-   - 📟 Electronics : Radio frequencies, IoT (Internet of Things), Embedded systems, Microelectronics, Image and Signal processing and Colorimetry.
-    
-📚 I’m currently learning : C# .NET, Angular, React, TypeScript, Python, Kafka, Docker and Git. 
+I’m Youva - Application Designer and Developer (C# .NET / Angular) and Master's-level Electronics Engineer. I'm passionate about bridging software and hardware.
+
+🔧 **What I love working on:**
+
+🖥️ Web dev & AI (C#, Angular, React, Python...)
+
+📡 Electronics: RF, IoT, embedded systems, microelectronics, image/signal processing, colorimetry
+
+🚀 **What I’m learning now:**
+C# .NET, Angular, React, TypeScript, Python, Docker, Git
 
 🌐 Social : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youva-lounas/)
 
@@ -34,14 +37,11 @@ here are the different technologies I use :
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=auto&link=https%3A%2F%2Fwww.postman.com%2F)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=000000&link=https%3A%2F%2Fswagger.io%2F)
 ![xUnit](https://img.shields.io/badge/xUnit.net-%232C7300?style=for-the-badge&logo=.net&logoColor=white&link=https%3A%2F%2Fxunit.net%2F)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000?style=for-the-badge&logo=rest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-blue?style=for-the-badge&logo=jsonwebtokens&logoColor=white&link=https%3A%2F%2Fjwt.io%2F)
-![Password Hashing](https://img.shields.io/badge/Password%20Hashing-red?style=for-the-badge&logo=security&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo Server](https://img.shields.io/badge/Apollo%20Server-311C87?style=for-the-badge&logo=apollo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-300420?style=for-the-badge&logo=express&logoColor=white)
 
 
@@ -55,16 +55,13 @@ here are the different technologies I use :
 ![BEM](https://img.shields.io/badge/CSS%20Architecture-BEM-blue?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-green?style=for-the-badge)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Axe DevTools](https://img.shields.io/badge/Axe%20DevTools-Accessibility-663399?style=for-the-badge&logo=deque&logoColor=white)
-
 
 ## 💾 Databases & Storage 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Toad](https://img.shields.io/badge/Toad-for%20Oracle-%23000000?style=for-the-badge&logo=toad&logoColor=white)
+![Toad](https://img.shields.io/badge/Toad_for_Oracle-172?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%23004700?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -94,12 +91,6 @@ here are the different technologies I use :
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 💿 Operation Systems
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=000000&link=https%3A%2F%2Fwikipedia.org%2Fwiki%2FLinux)
-![Windows](https://img.shields.io/badge/Windows-%2380B3FF?style=for-the-badge&logoColor=FFFFFF&link=https%3A%2F%2Fwww.microsoft.com%2Fwindows%2F)
-![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=FFFFFF&link=https%3A%2F%2Fwww.debian.org%2F)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF&link=https%3A%2F%2Fubuntu.com%2F)
-
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## Recent projects
@@ -111,7 +102,7 @@ here are the different technologies I use :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouvaLo&show_icons=true&theme=catppuccin_mocha)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
