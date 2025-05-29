@@ -111,7 +111,7 @@ here are the different technologies I use :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouvaLo&show_icons=true&theme=catppuccin_mocha)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
