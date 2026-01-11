@@ -1,20 +1,18 @@
 <div id="header" align="center">
     <h1>
-        Hey
+        Hello World
         <img 
-            src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm51MTV4c3pwMXE0bmVrNm5hYjlyZTB0bDQ2Mjd3bGM2azFoeHNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3ohhwMDyS6rv3sB8yI/giphy.gif" 
+            src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNmMzFkMGE5NGt3YXhtdnoxd3hnNmVsdmlhZzU5ZXlicWx1ajcydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26gslMAdctNhu6YnK/giphy.gif" 
             alt="Emoji qui dit coucou" 
-            width="45px" 
-            height="45px"
+            width="40px" 
+            height="40px"
         />
     </h1>
 </div>
 
-----
-
 # 💫 About Me :
 
-I’m Youva - Application Designer and Developer (C# .NET / Angular) and Master's-level Electronics Engineer. I'm passionate about bridging software and hardware.
+I’m Youva - Web Application Designer and Developer and Master's-level Electronics Engineer. I'm passionate about bridging software and hardware.
 
 🔧 **What I love working on:**
 
@@ -22,7 +20,9 @@ I’m Youva - Application Designer and Developer (C# .NET / Angular) and Master'
 
 📡 Electronics: RF, IoT, embedded systems, microelectronics, image/signal processing, colorimetry
 
-🌐 Social : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youva-lounas/)
+**Social :** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youva-lounas/)
+
+**Portfolio** : [YouvaLo](https://youvalo.com/home)
 
 ---
 
@@ -76,24 +76,8 @@ here are the different technologies I use :
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-000000?style=for-the-badge&logo=excalidraw&logoColor=white)
-
----
-
-# 📊 Github Stats :
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YouvaLo&theme=catppuccin-mocha&hide_border=false)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouvaLo&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&theme=catppuccin_mocha)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YouvaLo&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=YouvaLo&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=8)
-
----
-
-## 💰 You can help me by Donating
+ 
+--- 
+# 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd08?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/youvalo)
