@@ -22,10 +22,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youva-lounas/">
-    <img height="60" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://youvalo.com/home">
-    <img height="60" src="https://img.shields.io/badge/-Portfolio-000000?logo=About.me&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
